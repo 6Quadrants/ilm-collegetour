@@ -1,0 +1,45 @@
+body {
+    background-color: #f0f0f0;
+}
+
+p {
+    font-size: .9em;
+    line-height: 1.6rem;
+    color: #404040;
+}
+
+h5  {
+    font-size: 2em;
+    font-weight: 700;
+    color: deepskyblue;
+}
+
+.card {
+    border: none;
+}
+
+.card-header {
+    border: none;
+}
+
+
+.btn-link {
+    font-weight: 800;
+    color: #404040;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    color: #404040;
+    font-size: .8em;
+    padding-bottom: .2em;
+}
+
+.video-embed {
+    width: 100%;
+}
